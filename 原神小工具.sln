@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原神小工具", "原神小工具\原神小工具.csproj", "{A35E1A3B-BDA6-46FD-B5A3-D0E859A095C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35E1A3B-BDA6-46FD-B5A3-D0E859A095C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35E1A3B-BDA6-46FD-B5A3-D0E859A095C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35E1A3B-BDA6-46FD-B5A3-D0E859A095C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35E1A3B-BDA6-46FD-B5A3-D0E859A095C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506FB4A5-1E95-4CAC-A218-081783F508C3}
+	EndGlobalSection
+EndGlobal
